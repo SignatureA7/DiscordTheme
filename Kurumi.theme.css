@@ -1,0 +1,61 @@
+/**
+* @name Kurumi Tokisaki
+* @author ('~') 🇨 🇱#4480
+* @version 2.1
+* @description Kurumi Tokisaki V2.1
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GameActivityToggle_FIX.css");
+
+:root {
+
+--title: "Tokisaki Kurumi";
+--font: "Quicksand Light Oblique";
+--time: 0s;
+--Online: rgb(124, 252, 2);
+--Idle: rgb(0, 0, 255);
+--Unavailable: rgb(255, 0, 0);
+--Offline: rgb(255, 0, 0);
+--HoverMessage: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--grey: rgb(104, 125, 154);
+--darkgrey: rgb(36, 34, 37);
+--ChatBox: transparent;
+--Sidebar: transparent;
+--JoinUs: "Hey! Wanna have some fun.. Join US !";
+--AddNewServer: "➕ Add a new server";
+--Close: "✖";
+--Resize:"❐";
+--Hide:"➖";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "";
+--WelcomeMessage: "Just for fun :)";
+--Watermark: "";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: transparent;
+--ServerSize: 45px;
+--animation: rgb(0, 0, 0), rgb(0, 0, 0);
+--Primary: rgb(0, 0, 0);
+--grey5: rgba(104, 125, 154, .5);
+--darkgrey5: rgba(36, 34, 47, .75);
+--Playing: url("https://cdn.discordapp.com/attachments/691335527881900033/742330788598513674/55593df66735a1e685c9d4daa77f2ee3.png");
+--Xbox: url("https://cdn.discordapp.com/attachments/691335527881900033/742332660634091601/-TtCgJI8PBNB9WhcwZvBO1rJyxCP-pMpFyOfAIjG5xx68w1MWeHw6zKc8LdMVUK1zOUHAV8CiMmHQb19VbKn2mWkWZObLIAPu8dK.png");
+--Spotify: url("https://cdn.discordapp.com/attachments/691335527881900033/742331313884758046/zNj2IJNvAm4F6Cva6DPMoh04ift_joFwkkkkrcBFHOmITYSBGZQKkLbzO0PBuNqrdAL317G58KKfRC9blIr69XmYSLw1cRHqpGLV.png");
+--Streaming: url("https://cdn.discordapp.com/attachments/691335527881900033/742331961334431784/532614.png");
+--logo: url("https://cdn.discordapp.com/attachments/691335527881900033/742329712092774410/image-removebg-preview.png");
+--background: url("https://cdn.discordapp.com/attachments/691335527881900033/742332660634091601/-TtCgJI8PBNB9WhcwZvBO1rJyxCP-pMpFyOfAIjG5xx68w1MWeHw6zKc8LdMVUK1zOUHAV8CiMmHQb19VbKn2mWkWZObLIAPu8dK.png");
+}
