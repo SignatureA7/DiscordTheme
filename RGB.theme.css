@@ -1,0 +1,79 @@
+/**
+* @name RGB Space
+* @author ('~') 🇨 🇱#4480
+* @version 3.1
+* @description RGB Theme
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/7.css");
+
+/* PLUGINS */
+
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Space";
+--font: "Quicksand Light Oblique";
+--background: url("https://images.hdqwalls.com/wallpapers/fantasy-landscape-horizon-clouds-4k-sj.jpg");
+--Playing: url("https://goldenlys.github.io/ThemeGen/img/playing.jpg");
+--Xbox: url("https://goldenlys.github.io/ThemeGen/img/xbox.jpg");
+--Spotify: url("https://goldenlys.github.io/ThemeGen/img/spotify.jpg");
+--Streaming: url("https://goldenlys.github.io/ThemeGen/img/twitch.jpg");
+--logo: url("https://goldenlys.github.io/ThemeGen/img/ELYSIA.gif");
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--HoverMessage: var(--darkgrey5);
+--TitleBG: var(--darkgrey5);
+--Highlighted: var(--grey5);
+--JoinUs: "He hey! Wanna have some fun?.. JoinUs!";
+--AddNewServer: "➕ Add a new server";
+--ProfilePic: "View Profile";
+--Close: "✖";
+--Resize:"❐";
+--Hide:"➖";
+--Unread:"✨";
+--Option:"⚙️";
+--Emoji:"☢";
+--EmojiHover:"☣";
+--Channel:"💬";
+--Voice:"🔊";
+--WelcomeMessage:"Theme design by SignatureA7";
+--Watermark:"SignatureA7";
+--EditStatus:"Put another status";
+--Folder:"📁";
+--FolderOpern:"💠";
+--Mic:"🎙️";
+--Headset:"🎧";
+--WrtiteMessage: 'Write a message';
+--You: 'You';
+--ListenSong:"Listen Along";
+--Announcement: "📣";
+--EditStatus: "Put another status";
+--time: 5s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--C1: rgb(130 0 216);
+--C2: rgb(0 255 0);
+--C3: rgb(0 255 254);
+--C4: rgb(0 0 255);
+--C5: rgb(168 85 211);
+--C6: rgb(255 0 0);
+--C7: rgb(255 255 0);
+--ServerSize: 45px;
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--ActiveBox: rgb(235 235 235);
+--grey5: rgb(77 70 85 / 50%);
+--darkgrey5: rgb(18 18 18 / 75%);
+} 

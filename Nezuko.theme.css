@@ -1,0 +1,64 @@
+/**
+* @name Nezuko Kamado
+* @author ('~') 🇨 🇱#4480
+* @version 2.1
+* @description Nezuko Kamado V2.1
+* @invite tcWapbB
+*/
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://fonts.googleapis.com/css?family=Quicksand&amp;display=swap");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GameActivityToggle_FIX.css");
+
+:root {
+				--title: "Nezuko Kamado";
+				--font: "Quicksand Light Oblique";
+				--ServerSize: 45px;
+				/* RGB */
+				--grey: rgb(104, 125, 154);
+				--darkgrey: rgb(36, 34, 37);
+				--grey5: rgb(104, 125, 154 .5);
+				--darkgrey5: rgb(36, 34, 37, .75);
+				--ChatBox: transparent;
+				--TitleBG: transparent;
+				--Sidebar: transparent;
+				--SendMessage: transparent;
+				--HoverMessage: transparent;
+				--Online: rgb(124, 252, 2);
+				--Idle: rgb(0, 0, 255);
+				--Unavailable: rgb(255, 0, 0);
+				--Offline: rgb(255, 0, 0);				
+				/* URL */
+				--Playing: url("https://cdn.discordapp.com/attachments/691335527881900033/743849833646784633/wp5913176.png");
+				--Xbox: url("https://cdn.discordapp.com/attachments/691335527881900033/743852052328743022/wp4366898.png");
+				--Spotify: url("https://cdn.discordapp.com/attachments/691335527881900033/743850818121236540/1.png");
+				--Streaming: url("https://cdn.discordapp.com/attachments/691335527881900033/743850531755393074/2277488.png");
+				--background: url("https://cdn.discordapp.com/attachments/691335527881900033/743855829509210241/0d89c5b1-d0de-4b24-9a02-1f2e5cddd870.png"); 
+				--logo: url("https://cdn.discordapp.com/attachments/691335527881900033/743851452786802698/image-removebg-preview.png");
+				/* ICON */
+				--JoinUs: "He Hey! Wanna Some Fun? Join Us!";
+				--AddNewServer: "➕ Add a new server";
+				--ProfilePict: "View Profile";
+				--Close: "✖";
+				--Resize:"❐";
+				--Hide:"➖";
+				--Unread:"✨";
+				--Option:"⚙️";
+				--Emoji:"🙂";
+				--EmojiHover:"😜";
+				--Channel:"💬";
+				--Voice:"🔊";
+				--WelcomeMessage:"Theme design by SignatureA7";
+				--Watermark:"SignatureA7";
+				--EditStatus:"Put another status";
+				--Folder:"📁";
+				--FolderOpern:"💠";
+				--Mic:"🎙️";
+				--Headset:"🎧";
+				--WrtiteMessage: 'Write a message';
+				--You: 'You';
+				--ListenSong:"Listen Along";
+}
